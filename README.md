@@ -1,7 +1,5 @@
 ## hola nenecos
 
-
-
 <html>
 <body>
 <p> los amigos son amigos para siempre y por siempre, en las buenas y en las malas

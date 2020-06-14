@@ -4,7 +4,20 @@ You can use the [editor on GitHub](https://github.com/Katherinemeda/hola-mundo/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Markdown# hola-mundo
+primer repositorio 
+
+<html>
+title> meda </title>
+</head>
+<body>
+
+<p> los amigos son amigos para siempre y por siempre, en las buenas y en las malas
+		<h1> siganme en  tik tok </h1>
+		<br> no se para que es el comando br pero luis me dijo que llenara esto
+	</body>
+	</html>
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

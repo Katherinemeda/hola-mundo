@@ -6,13 +6,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 <html>
-<title> meda </title>
+<title> marxe </title>
 </head>
 <body>
 
 <p> los amigos son amigos para siempre y por siempre, en las buenas y en las malas
 		<h1> siganme en  tik tok </h1>
-		<br> no se para que es el comando br pero luis me dijo que llenara esto
+		<br> 
+		
+		<p>no se para que es el comando br pero luis me dijo que llenara esto</p>
 	</body>
 	</html>
 

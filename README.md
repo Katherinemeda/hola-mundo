@@ -7,8 +7,5 @@
 		<br> os amigos son amigos para siempre y por siempre, en las buenas y en las malas<br>
 		yo soy aczino en este crimen dejamos la evidencia es kaiser con su rimel
 	<p>no se para que es el comando br pero luis me dijo que llenara esto</p>
-	</body>
-	</html>
-
 
 
